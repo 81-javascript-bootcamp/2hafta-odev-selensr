@@ -21,9 +21,10 @@ myCarDetails();
 
 2.name parametresi alan bir isValidName fonksiyonu yazin. Fonksiyon asagidaki kosullarin hepsi saglaniyorsa true, saglanmiyorsa false donmelidir:
 
+
 name string olmali
 name bos olmamali
-bosluk icerebilir, ancak bosluk haridcindeki isimler en az 2 karakterden olusmali.
+bosluk icerebilir ancak bosluk haridcindeki isimler en az 2 karakterden olusmali.
 
 **/
 
